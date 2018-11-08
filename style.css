@@ -1,5 +1,57 @@
-/*COLORS:
+/* COLORS:
 Header background - #FFDBAA
 button - #805215
 Header Text - #553100
 Main background - #D4A76A*/
+
+
+header{
+  background-color: #FFDBAA;
+}
+
+.container{
+  background-color: #D4A76A;
+}
+.link{
+  color: white;
+  background-color: #805215;
+}
+  .container{
+  display: flex;
+}
+
+
+.single-section{
+  background-color:#D4A76A
+}
+body{
+  background-color: #D4A76A
+}
+.navos{
+  position: absolute;
+  right: 3%;
+  top:4%;
+}
+
+.whitetext{
+  background-color: white;
+  margin: 15px;
+  width: 95%;
+  height: 185px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 10px 10px gray;
+}
+
+.whitetext p {
+  height: 50%;
+}
+
+section{
+  text-align: left;
+}
+
+{
+  margin: auto;
+  backgrou
+}
